@@ -1,4 +1,4 @@
-# Group Project Groups (NSB)
+# Project Group Members (NSB)
 
 | Group   | Members                                                                  |
 | ------- | ------------------------------------------------------------------------ |
