@@ -1,4 +1,4 @@
-# Group Project Groups (NBB)
+# Group Project Groups (NSB)
 
 | Group   | Members                                                                  |
 | ------- | ------------------------------------------------------------------------ |
